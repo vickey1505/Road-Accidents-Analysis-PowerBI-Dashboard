@@ -1,5 +1,6 @@
 # 🚗 Road Accidents Analysis - Power BI Dashboard
-
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Road_Accident.png.png)
 ## 📌 Overview
 Analysis of UK Road Accidents data (2021-2022)
 to identify patterns and trends in road safety.
